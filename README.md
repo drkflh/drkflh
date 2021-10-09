@@ -1,7 +1,7 @@
 ## Halo Semua <a href="https://drkflh.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-[![Gmail Badge](https://img.shields.io/badge/-samujjwaal.dey@acuitybrands.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samujjwaal.dey@acuitybrands.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-DarikAflah%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/darik-aflah-480b61219)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-0078FF?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/drkflh)
+[![Gmail Badge](https://img.shields.io/badge/-Kingbongel@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Kingbongel23@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Darik%Aflah-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/darik-aflah-480b61219)
+[![Instagram Badge](https://img.shields.io/badge/-Drkflh-0078FF?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/drkflh)
 
 🔗 &nbsp;**Terhubung Dengan Saya**
 <p align="left">
