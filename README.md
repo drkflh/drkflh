@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-samujjwaal.dey@acuitybrands.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samujjwaal.dey@acuitybrands.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samujjwaal/ "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-@samujjwaal-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=samujjwaal "Follow on Twitter")
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-0078FF?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/drkflh/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-0078FF?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/drkflh/screen_name=drkflh )
 
 🔗 &nbsp;**Terhubung Dengan Saya**
 <p align="left">
