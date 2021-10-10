@@ -8,15 +8,10 @@
 
 I'm a 2nd grader in a vocational high school Telkom Purokerto, majoring in software engineering, I have some expertise in HTML, CSS, SQL, etc., I like to learn and contribute, Hope you enjoy seeing my source code. 🥰
 
-<details>
-  <summary>My Github Stats :computer:</summary>
-  
 
-  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=drkflh&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/drkflh)
+<a href="https://github.com/drkflh/drkflh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=drkflh&show_icons=true&include_all_commits=true&hide_border=true&bg_color=222831&title_color=FFD369&icon_color=0092CA&text_color=EEEEEE" alt="drkflh github stats" /></a> 
+<a href="https://github.com/drkflh/drkflh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drkflh&layout=compact&theme=buefy&hide_border=true&bg_color=222831&title_color=FFD369&text_color=EEEEEE" />
 
-  ----
-  
-</details>
 
 [![Profile last updated](https://img.shields.io/github/last-commit/drkflh/drkflh/main?label=Last%20updated&style=flat)](https://github.com/drkflh/drkflh/commits)
 ![Profile Views](https://komarev.com/ghpvc/?username=drkflh&color=blue)
