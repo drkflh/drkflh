@@ -32,15 +32,22 @@
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="PHP" height="25" src="images/php.svg"></code>
+  <code><img title="Laravel" height="25" src="images/lara.png"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+   <code><img title="mongo" height="25" src="images/mongo.png"></code>
+    <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
   <code><img title="Android" height="25" src="images/android.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
   <code><img title="Dribbble" height="25" src="images/dribbble.png"></code>
+   <code><img title="ae" height="25" src="images/ae.png"></code>
+    <code><img title="pr" height="25" src="images/pr.png"></code>
+    <code><img title="ae" height="25" src="images/ae.png"></code>
+    <code><img title="ps" height="25" src="images/ps.png"></code>
+
 </p>
 <hr>
 
