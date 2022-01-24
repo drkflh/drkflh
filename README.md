@@ -70,7 +70,7 @@
 <h2 align="center">👨‍💻 Repositories</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href=https://github.com/drkflh/xirpl3-gadget_store title="gadgetstore"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=drkflh&repo=xirpl3-gadget_store&theme=react&border_color=61dafb&border_radius=10"></a>  <a align="right" href=https://github.com/drkflh/Aplikasi-Inventory title="Aplikasi-Inventory"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=drkflh&repo=Aplikasi-Inventory&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href=https://github.com/drkflh/xirpl3-gadget_store title="gadgetstore"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=drkflh&repo=xirpl3-gadget_stor&theme=react&border_color=61dafb&border_radius=10"></a>  <a align="right" href=https://github.com/drkflh/Aplikasi-Inventory title="Aplikasi-Inventory"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=drkflh&repo=Aplikasi-Inventory&theme=react&border_color=61dafb&border_radius=10"></a>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/drkflh/drkflh.github.io" title="porto"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=drkflh&repo=drkflh.github.io&theme=react&border_color=61dafb&border_radius=10"></a>
@@ -79,7 +79,7 @@
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/drkflh/Bukuku" title="Bukuku"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=drkflh&repo=Bukuku&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/drkflh/AlternatifLink" title="al"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=drkflh&repo=Alternatif-Link&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/drkflh/AlternatifLink" title="al"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=drkflh&repo=AlternatifLink&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br>
 <h4 align="center">
