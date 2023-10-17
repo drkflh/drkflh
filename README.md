@@ -14,7 +14,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Darik Aflah Aufah Arisianto, Beginner To Full Stack Developer - UI/UX Designer
+  Hi, I'm Darik Aflah Aufah Arisianto, Back End Developer
   <br>
   🏫 I'm studying at Telkom Purwokerto Vocational High School
   <br>
